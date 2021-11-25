@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ana Camilly
 
--💻 Estudante do 2º Período de Análise e Desenvolviemnto de Sistemas na Universidade Federal do Rio Grande do Norte.
+💻 -- Estudante do 2º Período de Análise e Desenvolviemnto de Sistemas na Universidade Federal do Rio Grande do Norte.
 
 <div align="center">
   <a href="https://github.com/anacamilly">
