@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana Camilly
+### Olá! Eu sou a Ana Camilly, bem-vindo(a) ao meu GitHub!
 
 💻 -- Estudante do 2º Período de Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte.
 
