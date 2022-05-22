@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ana Camilly, bem-vindo(a) ao meu GitHub!
 
-💻 -- Graduanda do 3º Período de Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte.
+Graduanda do 3º Período de Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte.
 
  <div align="center">
    <a href="https://github.com/anacamilly">
