@@ -28,6 +28,7 @@ Graduanda do 3º Período de Análise e Desenvolvimento de Sistemas na Universid
   </div>
   
 ##
+   <p> <img src="https://komarev.com/ghpvc/?username=anacamily&color=blueviolet" alt="anacamilly"/> </p>
  
 <div> 
   <!--<a href="http://api.whatsapp.com/send?phone=5584987436078" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-->
@@ -35,6 +36,7 @@ Graduanda do 3º Período de Análise e Desenvolvimento de Sistemas na Universid
   <a href = "mailto:anacamillyguedes2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/ana-camilly-g-15651119a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+ 
   ![Snake animation](https://github.com/anacamilly/anacamilly/blob/output/github-contribution-grid-snake.svg)
   
 
