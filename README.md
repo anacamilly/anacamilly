@@ -1,42 +1,48 @@
-### Olá! Eu sou a Ana Camilly, bem-vindo(a) ao meu GitHub!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-Graduanda do 4º período de Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00c647&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ana+Camilly+Guedes;I'm+19+years+old;I+from+Brasil,+RN;I+study+systems+analysis+and+development+at+UFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- <div align="center">
-   <a href="https://github.com/anacamilly">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anacamilly&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacamilly&theme=tokyonight&hide_border=false&&layout=compact" />
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anacamilly&show_icons=true&count_private=true&hide_border=true&title_color=00c647&icon_color=00c647&text_color=B036B0&bg_color=0d1117" alt="Ana Camilly github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=00c647&text_color=B036B0&bg_color=0d1117" />
 </div>
-  
-  <div style="display: inline_block"><br>
-      <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      <img align="center" alt="Ana-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img align="center" alt="Ana-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-      <img align="center" alt="Ana-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
-      <img align="center" alt="Ana-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      <!--<img align="center" alt="Ana-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />-->
-      <img align="center" alt="Ana-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img align="center" alt="Ana-PostgresSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img align="center" alt="Ana-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img align="center" alt="Ana-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-      <img align="center" alt="Ana-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <!--<img align="center" alt="Ana-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />-->
-      <img align="center" alt="Ana-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
-      <!--<img align="center" alt="Ana-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />-->
-      <img align="center" alt="Ana-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </div>
-  
-  
-   <p> <img src="https://komarev.com/ghpvc/?username=anacamily&color=blueviolet" alt="anacamilly"/> </p>
- 
-<div> 
-  <!--<a href="http://api.whatsapp.com/send?phone=5584987436078" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-->
-  <a href="https://instagram.com/anacamillyguedes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:anacamillyguedes2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
-  <a href="https://www.linkedin.com/in/ana-camilly-g-15651119a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
-  ![Snake animation](https://github.com/anacamilly/anacamilly/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anacamilly&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
   
 
+### Main skills:
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AnaCamilly}/count.svg" /></p> 
+<br>
+
+ ![Snake animation](https://github.com/anacamilly/anacamilly/blob/output/github-contribution-grid-snake.svg)  
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>****
