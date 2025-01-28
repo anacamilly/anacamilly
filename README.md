@@ -36,7 +36,8 @@ Tenho experiência com diversas tecnologias, incluindo:
   <img align="center" alt="VS Code" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Visual Studio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
   <img align="center" alt="IntelliJ" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-
+  <img align="center" alt="IntelliJ" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  
   <!-- Ferramentas de Design e Colaboração -->
   <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Insomnia" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
