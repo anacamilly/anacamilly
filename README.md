@@ -44,7 +44,6 @@ Tenho experiência com diversas tecnologias, incluindo:
     <img align="center" alt="Trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" />
   <!-- Ferramentas de Relatórios e BI -->
     <img align="center" alt="PowerBI" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" />
-    <img align="center" alt="Crystal Reports" height="30" width="30" src="https://www.caman.au/wp-content/uploads/2018/01/crystal_reports_hosting.png" />
 </div>
 
 
