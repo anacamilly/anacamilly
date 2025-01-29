@@ -49,3 +49,7 @@ Tenho experiência com diversas tecnologias, incluindo:
 
 
 ---
+
+![Ana Camilly GitHub stats](https://github-readme-stats.vercel.app/api?username=anacamilly&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacamilly&layout=donut&theme=onedark)](https://github.com/anacamilly/github-readme-stats)
+
