@@ -5,9 +5,9 @@
 
 ### Desenvolvedora de Software | Apaixonada por Tecnologia
 
-Bem-vindo ao meu perfil! Eu sou apaixonada por criar soluções criativas e eficientes para problemas complexos. Estou sempre aprendendo e explorando novas tecnologias e formas de melhorar minhas habilidades. 🧠🌱🚀
+Bem-vindo ao meu perfil! Sou apaixonada por criar soluções criativas e eficientes para problemas complexos. Estou sempre aprendendo e explorando novas tecnologias e formas de melhorar minhas habilidades. 🧠🌱🚀
 
-
+Graduada em Análise e Desenvolvimento de Sistemas pela Universidade Federal do Rio Grande do Norte 🎓
 
 ## 🛠️ **Linguagens e Ferramentas**
 Tenho experiência com diversas tecnologias, incluindo:
