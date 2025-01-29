@@ -44,6 +44,7 @@ Tenho experiência com diversas tecnologias, incluindo:
   <img align="center" alt="Insomnia" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
   <img align="center" alt="Postman" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img align="center" alt="Trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" />
+  <img align="center" alt="Trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   
 </div>
 
