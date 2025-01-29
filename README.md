@@ -3,7 +3,7 @@
 
 <img align="right" alt="Imagem de Ana Camilly" height="150" src="https://github.com/anacamilly/anacamilly/blob/main/ana.png">
 
-### Desenvolvedora de Software
+### Desenvolvedora de Software 👩🏻‍💻
 
 Bem-vindo ao meu perfil! Sou apaixonada por criar soluções criativas e eficientes para problemas complexos. Estou sempre aprendendo e explorando novas tecnologias e formas de melhorar minhas habilidades. 🧠🌱🚀
 
