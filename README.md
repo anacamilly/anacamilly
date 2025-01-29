@@ -1,11 +1,12 @@
----
 # Olá, sou Ana Camilly! 👋
+
+<img align="right" alt="Imagem de Ana Camilly" height="150" src="https://github.com/anacamilly/anacamilly/blob/main/ana.png">
 
 ### Desenvolvedora de Software | Apaixonada por Tecnologia
 
 Bem-vindo ao meu perfil! Eu sou apaixonada por criar soluções criativas e eficientes para problemas complexos. Estou sempre aprendendo e explorando novas tecnologias e formas de melhorar minhas habilidades. 🧠🌱🚀
 
----
+
 
 ## 🛠️ **Linguagens e Ferramentas**
 Tenho experiência com diversas tecnologias, incluindo:
